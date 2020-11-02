@@ -1,4 +1,1 @@
-:microphone: If there was an issue yo I'll solve it <br>
-:microphone: Check out my code to see how I resolved it <br>
-:microphone: Splice splice baby mutation <br>
-:microphone: Splice splice baby mutation <br>
+![“I Voted” Octocat](https://user-images.githubusercontent.com/3104489/97828882-616ae680-1c96-11eb-8110-4f39349b4033.gif)
